@@ -1,0 +1,39 @@
+ITEM:
+  SERVER_SELECTOR:
+    MATERIAL: BOOK
+    SLOT: 4
+    NAME: "&6&lServer Selector"
+
+GLASS_PANE:
+  MATERIAL: STAINED_GLASS_PANE
+  NAME: " "
+  AMOUNT: 1
+  VALUE: 20
+
+SERVER_SELECTOR:
+  SIZE: 27
+  NAME: "&7Servers"
+  SERVERS:
+    1:
+      SERVER: example
+      MATERIAL: DIAMOND_SWORD
+      SLOT: 13
+      NAME: "&6&lExample"
+      LORE:
+        - ""
+        - "&7&l%bullet_point% &dExample"
+        - "&7&l%bullet_point% &eLore 1"
+        - "&7&l%bullet_point% &aInfinite Lores"
+        - "&7&l%bullet_point% &dHello"
+        - ""
+        - "&7%right_arrow% &fClick to join &7%right_arrow%"
+
+WELCOME_MESSAGE:
+  - "&7&m---------------------------------------"
+  - ""
+  - "&fWelcome to &6&lExample!"
+  - ""
+  - "&7&l%bullet_point% &6Store: &fstore.example.com"
+  - "&7&l%bullet_point% &6Discord: &fdiscord.gg/example"
+  - ""
+  - "&7&m---------------------------------------"

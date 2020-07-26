@@ -1,0 +1,5 @@
+name: Catalyst
+main: io.github.staudx.catalyst.CatalystPlugin
+version: 1.0
+author: Staud
+description: Basic Hub Core
