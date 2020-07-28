@@ -1,7 +1,7 @@
 # Catalyst
 ⚡️ Basic Hub Core
 
-Improvments what could be made.
+Improvements what could be made.
 
 - Scoreboard
 - Cosmetics
